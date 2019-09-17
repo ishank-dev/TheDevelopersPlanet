@@ -1,5 +1,5 @@
 ## TheDevelopersPlanet
-## Web Portal to interact and connect with all the cool developers around the world.
+### Web Portal to interact and connect with all the cool developers around the world.
 
 ## Contribution
 Feel free to contribute and create issues.
