@@ -2,7 +2,8 @@
 ###### Web Portal to interact and connect with all the cool developers around the world.
 
 ## Contribution
-Feel free to contribute or create issues.
+Feel free to contribute and create issues.
+Project open for contribution especially for first time contributors
 
 ## Prerequisites
 You need to have xampp installed on your system in order to run this application
@@ -31,3 +32,7 @@ You need to have xampp installed on your system in order to run this application
 ![Settings Page](docs/5.png)
 ![Settings Page](docs/6.png)
 ![Settings Page](docs/7.png)
+
+## Known Bugs
++ Post isn't taking a new line
++ Feature of posting on other's timeline not working
