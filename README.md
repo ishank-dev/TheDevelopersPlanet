@@ -24,7 +24,7 @@ You need to have xampp installed on your system in order to run this application
 + Create cool looking avatars for your profile picture
 
 ## Screenshots
-+![Login Page](docs/images/1.png)
-+![Home Page](docs/images/2.png)
-+![Profile Page](docs/images/3.png)
-+![Settings Page](docs/images/4.png)
++![Login Page](docs/1.png)
++![Home Page](docs/2.png)
++![Profile Page](docs/3.png)
++![Settings Page](docs/4.png)
