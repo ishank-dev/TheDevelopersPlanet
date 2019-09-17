@@ -1,5 +1,5 @@
 ## TheDevelopersPlanet
-###### Web Portal to interact and connect with all the cool developers around the world.
+## Web Portal to interact and connect with all the cool developers around the world.
 
 ## Contribution
 Feel free to contribute and create issues.
@@ -13,7 +13,7 @@ You need to have xampp installed on your system in order to run this application
 + Run XAMPP and start apache and MySql server
 + Go to https://localhost and see the application
 
-###### Additional Details
+## Additional Details
 + Don't forget to import the database file into phpmyadmin
 
 ## Features of the portal
