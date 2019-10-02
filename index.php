@@ -112,7 +112,7 @@ if(isset($_POST['post'])){
 	</div>
 
 	<script>
-		var userLoggedIn = '<?php echo $userLoggedIn; ?>';
+		var userLoggedIn = '<?php echo $userLoggedIn; ?>'; //storing logged in user
 
 		$(document).ready(function(){
 
