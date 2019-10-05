@@ -3,7 +3,7 @@
 
 ## Contribution
 Feel free to contribute and create issues.
-Project open for contribution especially for first time contributors
+Project open for contribution especially for first time contributors.
 
 ## Prerequisites
 You need to have xampp installed on your system in order to run this application
