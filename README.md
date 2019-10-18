@@ -1,6 +1,11 @@
 ## TheDevelopersPlanet
 ### Web Portal to interact and connect with all the cool developers around the world.
 
+## Credits
+All credits goes to Reece Kenny's Udemy Course
+https://www.udemy.com/course/make-a-social-media-website/
+Go to the above to have a good knowledge of how this project was made
+
 ## Contribution
 Feel free to contribute and create issues.
 Project open for contribution especially for first time contributors
