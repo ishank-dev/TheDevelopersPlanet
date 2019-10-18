@@ -4,7 +4,7 @@
 ## Credits
 All credits goes to Reece Kenny's Udemy Course
 https://www.udemy.com/course/make-a-social-media-website/
-Go to the above to have a good knowledge of how this project was made
+\nGo to the above to have a good knowledge of how this project was made
 
 ## Contribution
 Feel free to contribute and create issues.
