@@ -1,5 +1,6 @@
 ## TheDevelopersPlanet
 ### Web Portal to interact and connect with all the cool developers around the world.
+### Link to the Website http://34.203.1.87/DPlanet
 
 ## Credits
 All credits goes to Reece Kenny's Udemy Course
@@ -9,17 +10,6 @@ https://www.udemy.com/course/make-a-social-media-website/
 ## Contribution
 Feel free to contribute and create issues.
 Project open for contribution especially for first time contributors
-
-## Prerequisites
-You need to have xampp installed on your system in order to run this application
-
-## Running the application
-+ Copy the files inside htdocs folder (htdocs can be found inside the XAMPP installation directory )
-+ Run XAMPP and start apache and MySql server
-+ Go to https://localhost and see the application
-
-## Additional Details
-+ Don't forget to import the database file into phpmyadmin
 
 ## Features of the portal
 + Post status updates/photos
