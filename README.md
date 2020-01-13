@@ -2,8 +2,8 @@
 ### Web Portal to interact and connect with all the cool developers around the world.
 ### Link to the Website http://devplanet.dx.am/
 ### Use below credentials to login
-email address - ishank@gmail.com  
-password - helloworld
+email address - `ishank@gmail.com`  
+password - `helloworld`
 
 ## Credits
 All credits goes to Reece Kenny's Udemy Course
