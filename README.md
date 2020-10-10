@@ -12,7 +12,7 @@ https://www.udemy.com/course/make-a-social-media-website/
 
 ## Contribution
 Feel free to contribute and create issues.
-Project open for contribution especially for first time contributors
+Project open for contribution especially for first time contributors.
 
 ## Features of the portal
 + Post status updates/photos
